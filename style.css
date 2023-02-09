@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header{
+    padding: 10px;
+}
+
+div{
+    padding-left: 10px;
+}
+
+audio{
+    margin-top: 10px;
+}
+
+video{
+    margin-top: 10px;
+}
+footer{
+    width: fit-content;
+    margin: 0 auto;
+}
+
+#footer > li{
+    list-style: none;
+    display: inline-block;
+}
